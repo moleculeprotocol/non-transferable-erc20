@@ -1,0 +1,7 @@
+TokenTest:testCap() (gas: 16045)
+TokenTest:testContractCannotTransfer() (gas: 59280)
+TokenTest:testModeratorCanTransfer() (gas: 152434)
+TokenTest:testModeratorContractCanTransfer() (gas: 163841)
+TokenTest:testTokenSupply() (gas: 18126)
+TokenTest:testTransfersDisabled() (gas: 20458)
+TokenTest:testTransfersEnabled() (gas: 73210)

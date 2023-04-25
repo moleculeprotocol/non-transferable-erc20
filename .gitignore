@@ -1,0 +1,28 @@
+# hardhat
+node_modules
+build
+contracts/artifacts
+*.env
+.idea
+artifacts
+cache
+data
+coverage*
+env
+
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+broadcast
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+!.gitkeep
+
+lcov.info
